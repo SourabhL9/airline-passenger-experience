@@ -1,0 +1,1 @@
+This project is undertaken to analyze satisfaction level of passengers This dataset contains an airline passenger satisfaction survey. What factors are highly correlated to a satisfied (or dissatisfied) passenger? Performed in-depth EDA, feature engineering, missing value treatment, outlier detection. Classification Models were used to determine the accuracy.
